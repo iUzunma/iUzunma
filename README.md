@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iUzunma
 - 👀 I’m interested in championing web3 mass adoption 
 - 🌱 I’m currently learning web3 data analytics 
-- 💞️ I’m looking to collaborate on fostering web3 education in Nigeria and beyond 
+- 💞️ I’m looking to collaborate on fostering web3 education 
 - 📫 How to reach me @iUzunma1 on twitter or email 📧 - uzunmaimoca2021@gmail.com
 
 <!---
